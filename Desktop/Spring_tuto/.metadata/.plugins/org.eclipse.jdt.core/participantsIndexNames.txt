@@ -1,0 +1,17 @@
+INDEX VERSION 1.134
+C:\Users\Admin\Desktop\Spring_tuto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\668165653.index
+\Demomvc\src\main\java
+C:\Users\Admin\Desktop\Spring_tuto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1446278970.index
+\springmvc\src\main\java
+C:\Users\Admin\Desktop\Spring_tuto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3490526498.index
+\springmvc\src\main\resources
+C:\Users\Admin\Desktop\Spring_tuto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4157910086.index
+\xangars\src\main\java
+C:\Users\Admin\Desktop\Spring_tuto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1414183668.index
+\springmvc\src\main\java
+C:\Users\Admin\Desktop\Spring_tuto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1092254867.index
+\springmvc\src\main\java
+C:\Users\Admin\Desktop\Spring_tuto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\85349528.index
+\spring-01-AOP\src\main\resources
+C:\Users\Admin\Desktop\Spring_tuto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\55297909.index
+\Demomvc\src\main\resources
